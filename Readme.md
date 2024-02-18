@@ -13,7 +13,7 @@ This program allows users to check the current weather and 5-day forecast for a 
 
 3. Create a file named `config.py` in the root directory of the project and add your OpenWeatherMap API key as follows:
    
-    repr
+    ...
     API_KEY = "your_api_key"
     ```
 
