@@ -26,7 +26,7 @@ This program allows users to check the current weather and 5-day forecast for a 
 
 6. Enter the city name in the format "City, CountryCode" (e.g., "New York, US") when prompted.
 
-Enter city name: New York, US
-Current weather: 4.31°C - clear sky
+    Enter city name: New York, US
+    Current weather: 4.31°C - clear sky
 
 Note: Replace `"your_api_key"` in `config.py` with your actual OpenWeatherMap API key.
